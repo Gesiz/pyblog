@@ -8,7 +8,9 @@ categories:
 
 这是一次编辑
 
-> 这是一个尝试
+> Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.
+>
+> **David Levithan**, *Wide Awake*
 
 
 
@@ -24,3 +26,9 @@ if __name__ == __main__:
 
 wojuedebucuo
 *  yiabnba
+
+
+
+{% blockquote David Levithan, Wide Awake %}
+Do not just seek happiness for yourself. Seek happiness for all. Through kindness. Through mercy.
+{% endblockquote %}
