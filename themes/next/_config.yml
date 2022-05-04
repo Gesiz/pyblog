@@ -102,15 +102,21 @@ menu:
   # commonweal: /404/ || fa fa-heartbeat
   docs:
     default: /docs/ || fa fa-book
-    Getting Started:
-      default: /getting-started/ || fa fa-flag
-      Installation: /installation.html || fa fa-download
-      Configuration1: /configuration.html || fa fa-wrench
+    Clean Python:
+      default: /clean_python/ || fa fa-book
+      Chapter 1: /chapter1.html || fa fa-book
+      Chapter 2: /chapter2.html || fa fa-book
+      Chapter 3: /chapter3.html || fa fa-book
+      Chapter 4: /chapter4.html || fa fa-book
+      Chapter 5: /chapter5.html || fa fa-book
+      Chapter 6: /chapter6.html || fa fa-book
+      Chapter 7: /chapter7.html || fa fa-book
+      Chapter 8: /chapter8.html || fa fa-book
 
     Third Party Services:
-      default: /third-party-services/ || fa fa-puzzle-piece
-      Math Equations: /math-equations.html || fa fa-square-root-alt
-      Comment Systems: /comments.html || fa fa-comment-alt
+      default: /third-party-services/ || fa fa-book
+      Math Equations: /math-equations.html || fa-book
+      Comment Systems: /comments.html || fa fa-book
   memo: /memo/ || fa fa-sticky-note
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
