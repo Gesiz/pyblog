@@ -113,10 +113,9 @@ menu:
       Chapter 7: /chapter7.html || fa fa-book
       Chapter 8: /chapter8.html || fa fa-book
 
-    Third Party Services:
-      default: /third-party-services/ || fa fa-book
-      Math Equations: /math-equations.html || fa-book
-      Comment Systems: /comments.html || fa fa-book
+    Other:
+      default: /other/ || fa fa-book
+      
   memo: /memo/ || fa fa-sticky-note
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th

@@ -36,3 +36,10 @@ Ctrl+b s：列出所有会话。
 Ctrl+b $：重命名当前会话。
 ```
 
+## CPU & IO
+
+```
+iostat -x
+top
+```
+
